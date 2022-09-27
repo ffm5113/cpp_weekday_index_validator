@@ -120,25 +120,34 @@ int main()
 * By Forrest Moulin
 *
 * Please enter a valid weekday index integer from 1 to 7,
-* representing a day of the week (1 - Sun, 2 - Mon - 3 - Tue, etc.).
+* representing a day of the week:
+*
+* 1 Sun, 2 Mon, 3 Tue, 4 Wed, 5 Thu, 6 Fri, 7 Sat.
+* NOTE: Only enter the integer.
 *
 * -1
 *
 * -1 is invalid.
 * Please enter a valid weekday index integer from 1 to 7,
-* representing a day of the week (1 - Sun, 2 - Mon - 3 - Tue, etc.).
+* representing a day of the week:
+*
+* 1 Sun, 2 Mon, 3 Tue, 4 Wed, 5 Thu, 6 Fri, 7 Sat.
 *
 * 0
 *
 * 0 is invalid.
 * Please enter a valid weekday index integer from 1 to 7,
-* representing a day of the week (1 - Sun, 2 - Mon - 3 - Tue, etc.).
+* representing a day of the week:
+*
+* 1 Sun, 2 Mon, 3 Tue, 4 Wed, 5 Thu, 6 Fri, 7 Sat.
 *
 * 100
 *
 * 100 is invalid.
 * Please enter a valid weekday index integer from 1 to 7,
-* representing a day of the week (1 - Sun, 2 - Mon - 3 - Tue, etc.).
+* representing a day of the week:
+*
+* 1 Sun, 2 Mon, 3 Tue, 4 Wed, 5 Thu, 6 Fri, 7 Sat.
 *
 * 1
 *
@@ -151,7 +160,10 @@ int main()
 * Starting over...
 *
 * Please enter a valid weekday index integer from 1 to 7,
-* representing a day of the week (1 - Sun, 2 - Mon - 3 - Tue, etc.).
+* representing a day of the week:
+*
+* 1 Sun, 2 Mon, 3 Tue, 4 Wed, 5 Thu, 6 Fri, 7 Sat.
+* NOTE: Only enter the integer.
 *
 * 2
 *
@@ -164,7 +176,10 @@ int main()
 * Starting over...
 *
 * Please enter a valid weekday index integer from 1 to 7,
-* representing a day of the week (1 - Sun, 2 - Mon - 3 - Tue, etc.).
+* representing a day of the week:
+*
+* 1 Sun, 2 Mon, 3 Tue, 4 Wed, 5 Thu, 6 Fri, 7 Sat.
+* NOTE: Only enter the integer.
 *
 * 3
 *
@@ -177,7 +192,10 @@ int main()
 * Starting over...
 *
 * Please enter a valid weekday index integer from 1 to 7,
-* representing a day of the week (1 - Sun, 2 - Mon - 3 - Tue, etc.).
+* representing a day of the week:
+*
+* 1 Sun, 2 Mon, 3 Tue, 4 Wed, 5 Thu, 6 Fri, 7 Sat.
+* NOTE: Only enter the integer.
 *
 * 4
 *
@@ -190,7 +208,10 @@ int main()
 * Starting over...
 *
 * Please enter a valid weekday index integer from 1 to 7,
-* representing a day of the week (1 - Sun, 2 - Mon - 3 - Tue, etc.).
+* representing a day of the week:
+*
+* 1 Sun, 2 Mon, 3 Tue, 4 Wed, 5 Thu, 6 Fri, 7 Sat.
+* NOTE: Only enter the integer.
 *
 * 5
 *
@@ -203,7 +224,10 @@ int main()
 * Starting over...
 *
 * Please enter a valid weekday index integer from 1 to 7,
-* representing a day of the week (1 - Sun, 2 - Mon - 3 - Tue, etc.).
+* representing a day of the week:
+*
+* 1 Sun, 2 Mon, 3 Tue, 4 Wed, 5 Thu, 6 Fri, 7 Sat.
+* NOTE: Only enter the integer.
 *
 * 6
 *
@@ -216,9 +240,11 @@ int main()
 * Starting over...
 *
 * Please enter a valid weekday index integer from 1 to 7,
-* representing a day of the week (1 - Sun, 2 - Mon - 3 - Tue, etc.).
+* representing a day of the week:
 *
-* 
+* 1 Sun, 2 Mon, 3 Tue, 4 Wed, 5 Thu, 6 Fri, 7 Sat.
+* NOTE: Only enter the integer.
+*
 * 7
 *
 * 7 is the weekday index for Saturday.
@@ -226,12 +252,9 @@ int main()
 * Would you like to continue?
 * Please enter Y for yes or enter N to quit.
 *
-* N
+* n
 *
 * Closing the program...
 * Thanks for using the Weekday Index Validator.
 * Until next time!
-*
-* C:\Users\Forrest\cmpsc121\homework\Activity10-WeekdayNumVal\x64\Debug\Activity10-WeekdayIndexVal.exe
-* (process 63704) exited with code 0.
 */
